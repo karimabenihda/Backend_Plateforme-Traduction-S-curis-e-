@@ -10,5 +10,7 @@ psycopg2-binary
 python-multipart
 pydantic
 python-jose[cryptography]
-transformers
-torch
+# transformers
+transformers==4.38.1
+accelerate
+sentencepiece
